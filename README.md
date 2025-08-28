@@ -105,7 +105,7 @@ We enforce data consistency and protection using:
 - ✅ Create stored procedures for order processing.  
 - ✅ Integrate with a front-end application.
 
-For more details, please read the [project documentation PDF] (./docs/Final Project-Database.pdf)
+For more details, please read the project documentation PDF (docs/Final Project - Database.pdf).
   
 ## 📊 Relational Schema
 Each table is created with **primary keys**, **foreign keys**, and **constraints** for data integrity.  
