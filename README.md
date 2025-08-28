@@ -1,8 +1,18 @@
 # 📦 E-Commerce Management System (Database Project)
 
-Final Project - Database - Group 6 (Part One)
+## 📝 Project Description
 
----
+The **Ecommerce Database Project** is designed to manage a complete online marketplace system. It demonstrates the creation, management, and querying of a relational database for an ecommerce platform. The project covers:
+
+- **User Management:** Tracking buyers, sellers, and their profiles, including personal and company information.  
+- **Product & Listings:** Organizing items into categories, managing inventory, and handling listings with pricing and availability.  
+- **Transactions:** Recording purchases, tracking sales, and maintaining relationships between buyers, sellers, and items.  
+- **Database Normalization:** Ensures the schema is clean, consistent, and optimized up to **3rd Normal Form (3NF)** to eliminate redundancy.  
+- **SQL Implementation:** Includes DDL for table creation, DML for inserting and updating data, and queries for retrieval, joins, aggregations, and subqueries.  
+- **Security & Integrity:** Implements primary keys, foreign keys, constraints, role-based access control (RBAC), and AES encryption for sensitive data.  
+- **Scalability:** Structured to support future enhancements like triggers, stored procedures, and integration with a front-end application.  
+
+This project provides a **practical example of relational database design, implementation, and data management** suitable for learning, academic purposes, or as a foundation for a real-world ecommerce system.
 
 ## 👥 Team Members
 - **Boyan Qin** - Database Designer  
