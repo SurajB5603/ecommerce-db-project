@@ -93,7 +93,9 @@ We enforce data consistency and protection using:
 
 - ✅ Add triggers for automated inventory updates.  
 - ✅ Create stored procedures for order processing.  
-- ✅ Integrate with a front-end application.  
+- ✅ Integrate with a front-end application.
+
+For more details, please read the [project documentation PDF] (./docs/Final Project-Database.pdf)
   
 ## 📊 Relational Schema
 Each table is created with **primary keys**, **foreign keys**, and **constraints** for data integrity.  
